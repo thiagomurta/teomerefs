@@ -77,7 +77,6 @@ E ah, você pode usar [essa planilha](https://docs.google.com/spreadsheets/d/1Rp
 #### Cursos
 |Nome|Sobre|Autoria|Nível|Duração|
 |:--:|:---:|:-----:|:---:|:---:|
-|[Descomplicando SQL](https://www.linuxtips.io/course/descomplicando-sql)| Curso completo de SQL com Databricks | [LinuxTips](https://twitter.com/LINUXtipsBR) feat. [Téo Me Why](twitch.tv/teomewhy) | Iniciante | 15:00 |
 |[SQL - Dados GC](https://www.twitch.tv/collections/1GD1BC-Y3BbhgA)| Curso básico de SQL com dados da Gamers Club | [Téo Me Why](twitch.tv/teomewhy) | Iniciante | 07:39 |
 |[Trilha SQL - Téo Me Why](https://www.twitch.tv/collections/IkuI3yO-ShZO-g)| Primeiro curso de SQL do canal, utilizando dados da Olist	| [Téo Me Why](twitch.tv/teomewhy) | Iniciante | 13:45 |
 
